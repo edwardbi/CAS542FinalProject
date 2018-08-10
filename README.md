@@ -20,4 +20,5 @@ We are using Tensorflow version 1.0 and Python version 3.6 in this project. And 
 ## File Content Description
 There are four Jupyter notebook files in this project. The End to End LSTM Model 1, End to End CNN Model 2 and the End to End CNN LSTM Model 3 are the two experiment results of the three models training under the end-to-end training method. The Feature Extractorion Training file refer to the experiments performed when using the CNN or the CNN LSTM model as the feature extrator training method.
 
-
+## Dataset
+There dataset can be downloaded from the UCI dataset repository at: https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
